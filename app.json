@@ -14,23 +14,23 @@
   "success_url": "https://t.me/NastyProject",
   "stack": "container",
   "env": {
-    "API_KEY": {
+    "API_KEY": {26689028
       "description": "Dapatkan Api Key di web my.telegram.org",
       "required": true
     },
-    "API_HASH": {
+    "API_HASH": {34d0c2bd1992f199a8b8f9d5e01d5feb
       "description": "Dapatkan Api Hash Di Web my.telegram.org",
       "required": true
     },
-     "STRING_SESSION": {
+     "STRING_SESSION": {1BVtsOHkBu4eOX0wfEXrOSKUp0cwkUkayfOMq2FN8ogRygCXBD28ZfdHokD9ztxlToxwpi84Fhj3yJ8U-hapRGMD4R0bngzngmaZdc7_0niH5VZao5j5w4mvdWzRCUs7i0CxlJFbuFjNpa8VNqZ_jBE9uyqBWOVWDMJZnaRS4jsMfSDYjSUW9cYuzWL4J_V1-_iyaprV6HMqTIZuOn_XpIlN6PLHrlVFnBdWTEBZSMdNeDUsSP1cfL_V8wpW9K5hKhwquavjSY99bGRjSOrIAA_8TgbHdXc4kYt2ybv7b9ggD7vTA1F3mx2IEDiNOdoJO4exUE22QJBh-lz0aIBlnACcb4UIMTOk=
       "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @IDnyaKosong di telegram",
       "required": true
     },
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {doyuserbot
       "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
       "required": true
     },
-    "HEROKU_API_KEY": {
+    "HEROKU_API_KEY": {HRKU-326a8859-e979-4132-a9ef-99d3b27bd176
       "description": "Heroku API KEY mu, dapatkan dari web 'https://dashboard.heroku.com/account'",
       "value": "Check Di Heroku Dashboard Mu",
       "required": true
